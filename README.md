@@ -9,7 +9,7 @@ To install and run the docker container you need docker installed on your machin
 Clone the project:
 
 ```bash
-git clone https://gitlab.com/schaary/pmp-db.get
+git clone https://schaary@gitlab.com/schaary/pmp-db.git
 ```
 
 Then run `make` to get all available options:
